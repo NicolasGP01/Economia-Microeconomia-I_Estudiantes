@@ -7,7 +7,8 @@
 * Limites
 * Logaritmos
 
-[comment]: # ### Clase 2
+### Clase 2
 1. Derivadas
 * Entendamos la derivada.
 2. Teorema de Kuhn-Tucker.
+  .....
