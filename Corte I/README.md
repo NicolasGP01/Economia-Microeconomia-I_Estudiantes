@@ -2,10 +2,10 @@
 ### Clase 1
 1. Presentación formal de curso
 2. Nociones algebraicas y conceptos elementales:
-* Sistema de Número
-* Exponentes
-* Limites
-* Logaritmos
+* Sistema de números.
+* Exponentes.
+* Limites.
+* Logaritmos.
 
 ### Clase 2
 1. Derivadas
