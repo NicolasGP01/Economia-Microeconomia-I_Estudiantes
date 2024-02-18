@@ -5,6 +5,7 @@ Documentación del curso de Microeconomía 1 de la universidad del Quindío.
 
 
 # Contenido
-[Link](Corte I) 
-[Link](Corte II)
+* [Corte I](https://github.com/NicolasGP01/Economia-Microeconomia-I_Estudiantes/tree/main/Corte%20I) 
+* [Corte II](https://github.com/NicolasGP01/Economia-Microeconomia-I_Estudiantes/tree/main/Corte%20II)
+* [Corte III](https://github.com/NicolasGP01/Economia-Microeconomia-I_Estudiantes/tree/main/Corte%20III)
 
