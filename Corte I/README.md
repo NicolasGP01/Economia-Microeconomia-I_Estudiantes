@@ -11,4 +11,4 @@
 1. Derivadas
 * Entendamos la derivada.
 2. Teorema de Kuhn-Tucker.
-  .....
+
