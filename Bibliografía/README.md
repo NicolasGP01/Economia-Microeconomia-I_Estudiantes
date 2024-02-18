@@ -7,4 +7,4 @@ Aquí el estudiante encontrará la bibliografía que se lleva en el curso.
 3. [Sergio Monsalve - Matemáticas básicas para economistas (2009)](https://github.com/NicolasGP01/Economia-Microeconomia-I_Estudiantes/blob/main/Bibliograf%C3%ADa/Sergio%20Monsalve%20(Editor)%20-%20Matem%C3%A1ticas%20b%C3%A1sicas%20para%20economistas_%20Fundamentos-U.%20Nacional%20de%20Colombia%20(2009).rar)
 4. Mankiw - Principios de Microeconomía (1998). *
 
-*Los libros que no descansan en este repositorio se debe a que GitHub no soporta archvos superiores a 25MB* *
+*Los libros que no descansan en este repositorio se debe a que GitHub no soporta archivos superiores a 25MB* *
