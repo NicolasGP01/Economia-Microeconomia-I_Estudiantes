@@ -4,7 +4,7 @@
 2. Nociones algebraicas y conceptos elementales:
 * Sistema de números.
 * Exponentes.
-* Limites.
+* Limites. [Quiz](https://github.com/NicolasGP01/Economia-Microeconomia-I_Estudiantes/blob/main/Corte%20I/Quiz_MICROECONOM%C3%8DA_1.pdf)
 * Logaritmos.
 
 ### Clase 2
