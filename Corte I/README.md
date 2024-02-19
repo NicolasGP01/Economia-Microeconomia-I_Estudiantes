@@ -1,6 +1,6 @@
 
 ### Clase 1
-1. Presentación formal de curso
+1. Presentación formal del curso
 2. Nociones algebraicas y conceptos elementales:
 * Sistema de números.
 * Exponentes.
