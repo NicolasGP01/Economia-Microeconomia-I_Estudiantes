@@ -11,4 +11,5 @@
 1. Derivadas
 * Entendamos la derivada.
 2. Teorema de Kuhn-Tucker.
+3. Funciones de Utilidad y la restricción presupuestal.
 
