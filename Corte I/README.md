@@ -15,5 +15,5 @@
 
 
 ### Clase 2
-1. Cantidades optimas.
+1. Cantidades óptimas.
 
