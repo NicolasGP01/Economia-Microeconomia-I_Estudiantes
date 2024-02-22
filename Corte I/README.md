@@ -13,3 +13,7 @@
 2. Teorema de Kuhn-Tucker.
 3. Funciones de Utilidad y la Restricción Presupuestal.
 
+
+### Clase 2
+1. Cantidades optimas.
+
