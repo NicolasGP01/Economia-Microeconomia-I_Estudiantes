@@ -18,8 +18,8 @@
 1. Cantidades óptimas.
 
 ### Clase 4
-1. Lateoría Económica.
-2. Economía Neoclasica.
+1. La teoría económica.
+2. Economía neoclasica.
 3. ¿Cómo toman decisiones los individuos?
 4. ¿Cómo interactuan los individuos?
 5. Elementos básicos de la oferta y la demanda.
