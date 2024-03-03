@@ -23,3 +23,7 @@
 3. ¿Cómo toman decisiones los individuos?
 4. ¿Cómo interactuan los individuos?
 5. Elementos básicos de la oferta y la demanda.
+
+### Clase 5
+1. Elementos básicos de la oferta y la demanda.
+2. Elasticidades.
