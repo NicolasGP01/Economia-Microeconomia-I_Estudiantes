@@ -1,5 +1,5 @@
 
-### Clase 1
+### Semana 1.
 Teoría del Hogar: Nociones iniciales, relación de preferencias.
 
 > * Libros: Geoffrey A. Jehle and Philip J. Reny (2011). Advanced Microeconomic Theory (3a Edición). Person.
